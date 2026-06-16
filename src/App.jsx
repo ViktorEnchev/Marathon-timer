@@ -67,7 +67,7 @@ export default function App() {
           </h1>
           <p className="tagline">
             must answer the call and march to&nbsp;
-            <span className="highlight">RIM</span>
+            <span className="highlight">Rome</span>
             &nbsp;— to run a marathon
           </p>
         </div>
